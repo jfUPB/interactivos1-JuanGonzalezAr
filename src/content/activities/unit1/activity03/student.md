@@ -24,4 +24,3 @@ Información externa que alimenta el sistema generativo, como métricas de usuar
 Crear visuales que reaccionen a la música o al clima.
 
 
-Puedes copiarlo y pegarlo directamente donde necesites usar Markdown. Si necesitas ajustes adicionales, ¡avísame! 😊
