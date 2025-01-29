@@ -75,3 +75,14 @@ while True:
                 sleep(500)
                 display.show(Image.HAPPY)
 ```
+# **Conexión y Comunicación entre p5.js y micro:bit**
+
+## **Conexión:**
+1. El usuario presiona **"Connect to micro:bit"**.
+2. Se abre la conexión serial con el micro:bit.
+
+## **Recepción de Datos:**
+1. Si el micro:bit envía `'A'`, p5.js cambia el color del cuadrado.
+
+## **Envío de Datos (Opcional):**
+1. p5.js puede enviar datos al micro:bit usando `port.write()`, aunque esta función no se usa activamente en el código.
