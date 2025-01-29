@@ -14,3 +14,4 @@ function draw() {
 - El `let c `es para cambiar el color y el fill es para rellenar el objeto o dibujo que seria el triangulo, y el triangulo tiene todos sus componentes que son (x1,y1,x2,y2,x3,y3) los cuales le dan las caracteristicas al triangulo, tambien tiene unos componentes de random que hace que tome valores entre 98 y 250
 - **Falta insertar imagenes**
 
+![Triángulo morado](../../../../assets/TrianguloP5.png)
