@@ -60,6 +60,4 @@ while True:
             display.show(image_A)  # Muestra la imagen de corazón
         elif data == b'B':  # Si los datos recibidos son 'B'
             display.show(image_B)  # Muestra la cara feliz
-        else:
-            display.clear()  # Si no es 'A' ni 'B', borra la pantalla
 ```
