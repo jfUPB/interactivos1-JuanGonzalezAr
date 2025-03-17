@@ -1,1 +1,1 @@
-![BombaTemporizada]¡(../../../../assets/
+![BombaTemporizada]¡(../../../../assets/BombaDiagrama.png)
