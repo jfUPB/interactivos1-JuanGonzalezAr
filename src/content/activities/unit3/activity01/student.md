@@ -56,3 +56,18 @@ while True:
     semaforo2.actualizar()
     semaforo3.actualizar()
 ```
+
+
+## Ventajas de usar una clase para el semáforo
+1. Organización: La clase encapsula todo lo relacionado con el semáforo, lo que facilita su comprensión y mantenimiento.
+
+2. Reusabilidad: Permite crear múltiples semáforos con distintas configuraciones sin repetir código.
+
+3. Manejo de Estado: Facilita las transiciones entre los estados del semáforo y la actualización de la visualización.
+
+4. Escalabilidad: Se pueden agregar más semáforos fácilmente sin modificar el código existente.
+
+5. Claridad: El código es más limpio y modular, lo que facilita la depuración y mantenimiento.
+
+## Técnica de máquinas de estado
+El enfoque de máquina de estado es ideal para semáforos, ya que tiene un ciclo claro de estados (Rojo, Amarillo, Verde) y transiciones bien definidas. Esto facilita la programación y asegura que el semáforo siga un ciclo preciso.
