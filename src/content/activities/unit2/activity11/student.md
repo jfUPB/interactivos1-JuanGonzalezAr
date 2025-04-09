@@ -1,0 +1,1 @@
+![BombaTemporizada](../../../../assets/BombaDiagrama.png)
