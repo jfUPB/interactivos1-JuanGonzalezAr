@@ -1,4 +1,4 @@
-```
+```python
 import utime
 from microbit import *
 import music
