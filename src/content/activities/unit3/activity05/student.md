@@ -1,4 +1,4 @@
-## Diagrama
+
 ## Estados de la bomba
 ### La bomba tiene tres estados principales:
 
@@ -32,3 +32,4 @@
 - Cada segundo, el tiempo disminuye hasta llegar a 0.
 #### Eventos de entrada en STATE_EXPLOSION
 - Se reproduce sonido y parpadea la luz..
+## Diagrama:
