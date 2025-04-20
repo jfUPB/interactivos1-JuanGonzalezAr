@@ -1,4 +1,4 @@
-```
+```js
 let port;
 let connectBtn;
 
