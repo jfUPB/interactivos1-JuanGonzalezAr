@@ -13,4 +13,7 @@ un nuevo tipo de cursor
 - https://editor.p5js.org/JuanGonzalezAr/sketches/kQnFu-Wqy
 - El cambio que le hice fue en que en el setup le añadi una funcion de noCursor para que cuando me pare en el lienzo creado no se vea el cursor mientras dibujo las figuras
 ----
-3. 
+3. Serpientes que siguen el cursor
+- En este lo que mas me llamo la atencion fue como las serpientes tienen una direccion random y cada que do click se dirigen a una posicion en donde yo estoy dando click
+- https://editor.p5js.org/JuanGonzalezAr/sketches/HRLAE48Bt
+- Lo modifique para que cuando las serpientes aparezcan las coordenadas originales esten rotadas 1/8 y eso hace que esten rotadas hacia mas abajo
