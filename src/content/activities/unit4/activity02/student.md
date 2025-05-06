@@ -32,3 +32,4 @@
 4. Espacio: Cambia el color aleatoriamente.
 5. Teclas 1-4: Cambian el color del pincel a tonos predefinidos.
 6. Teclas 5-9: Seleccionan diferentes módulos de dibujo.
+![Imagen](../../../../assets/Unidad4Act2.png)
