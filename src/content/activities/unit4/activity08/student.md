@@ -1,0 +1,2 @@
+### FeedBack:
+Esta unidad fue interesante al integrar p5.js con el micro\:bit y explorar la comunicación serial. Lo más desafiante fue manejar los datos del puerto serial y la sincronización de la información. Para mejorar, sugiero profundizar más en la comunicación serial, agregar más ejercicios prácticos y proporcionar más documentación sobre las funciones y máquinas de estado. También sería útil explorar otras plataformas de integración.
