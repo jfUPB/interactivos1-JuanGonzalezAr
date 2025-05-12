@@ -1,7 +1,7 @@
 ### Capturas:
 ![Imagen](../../../../assets/Und5Act2FI.png)
 
-
+![Imagen](../../../../assets/Und5Act2SFI.png)
 
 # Formato Binario: Ventajas, Desventajas y Cálculo de Bytes
 
@@ -39,8 +39,8 @@ Se usa el formato: `'>2h2B'`
   - `xValue = 1000` → `03E8` en hexadecimal
   - `xValue = -1000` → `FC18` en hexadecimal (por complemento a dos)
 ### Pruebas:
-
-
+![Imagen](../../../../assets/Und5Act2SFI(2).png)
+![Imagen](../../../../assets/Und5Act2SFi(3).png)
 
 
 
